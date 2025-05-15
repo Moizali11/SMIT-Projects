@@ -33,7 +33,7 @@ I'm an aspiring **Front-End Web Developer** with a solid foundation in **HTML** 
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moiozali6878@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmoizali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-moiz-ali-1a672a242/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/S](https://www.facebook.com/profile.php?id=100009725227692))
 
 🌐 Portfolio: Coming Soon...
